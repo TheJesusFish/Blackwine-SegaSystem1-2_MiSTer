@@ -1,9 +1,6 @@
 /db
 /incremental_db
 /output_files
-/build_id.v
-/c5_pin_model_dump.txt
-/jtag.cdf
-*.bak
-/*.qws
-greybox_tmp/cbx_args.txt
+c5_pin_model_dump.txt
+build_id.v
+jtag.cdf

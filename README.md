@@ -40,7 +40,7 @@ Sega System 2 games currently **not yet** supported:
 
 Add the following to your `downloader.ini` file.
 
-```
-[thejesusfish/blackwine-system1-2]
+```ini
+[thejesusfish/blackwine-segasystem1-2_mister]
 db_url = https://raw.githubusercontent.com/thejesusfish/Blackwine-SegaSystem1-2_MiSTer/db/db.json.zip
 ```
