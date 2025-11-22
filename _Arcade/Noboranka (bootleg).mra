@@ -5,6 +5,7 @@
 	<mratimestamp>20210713000000</mratimestamp>
 	<year>1986</year>
 	<manufacturer>bootleg (Game Electronics)</manufacturer>
+	<rotation>vertical (ccw)</rotation>
 	<category>Shooter</category>
 	<rbf>Blackwine-SegaSystem1-2</rbf>
 	<switches default="2F,FF">

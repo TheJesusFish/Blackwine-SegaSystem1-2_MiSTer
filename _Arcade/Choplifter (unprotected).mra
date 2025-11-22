@@ -5,6 +5,7 @@
 	<mratimestamp>20210706000000</mratimestamp>
 	<year>1985</year>
 	<manufacturer>Sega</manufacturer>
+	<rotation>horizontal</rotation>
 	<category>Shooter</category>
 	<rbf>Blackwine-SegaSystem1-2</rbf>
 	<switches default="DE,FF">
