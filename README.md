@@ -10,7 +10,7 @@ by [MiSTer-X](https://twitter.com/mrx_8b) and [blackwine](https://x.com/blk_yn)
 
 ## Supported Games
 
-Because this is a fork of the existing [MiSTer System 1 Core)[https://github.com/MiSTer-devel/Arcade-SEGASYS1_MiSTer] duplicated titles have been removed. 
+Because this is a fork of the existing [MiSTer System 1 Core](https://github.com/MiSTer-devel/Arcade-SEGASYS1_MiSTer) duplicated titles have been removed. 
 
 Non-duplicated System 1 titles supported by this core:
 
