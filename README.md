@@ -10,7 +10,7 @@ by [MiSTer-X](https://twitter.com/mrx_8b) and [blackwine](https://x.com/blk_yn)
 
 ## Supported Games
 
-Because this is a fork of the existing [MiSTer System 1 Core)[https://github.com/MiSTer-devel/Arcade-SEGASYS1_MiSTer] duplicated titles have been removed. 
+Because this is a fork of the existing [MiSTer System 1 Core](https://github.com/MiSTer-devel/Arcade-SEGASYS1_MiSTer) duplicated titles have been removed. 
 
 Non-duplicated System 1 titles supported by this core:
 
@@ -41,6 +41,6 @@ Sega System 2 games currently **not yet** supported:
 Add the following to your `downloader.ini` file.
 
 ```ini
-[thejesusfish/blackwine-segasystem1-2_mister]
-db_url = https://raw.githubusercontent.com/thejesusfish/Blackwine-SegaSystem1-2_MiSTer/db/db.json.zip
+[TheJesusFish/Blackwine-Segasystem1-2_Mister]
+db_url = https://raw.githubusercontent.com/TheJesusFish/Blackwine-SegaSystem1-2_MiSTer/db/db.json.zip
 ```

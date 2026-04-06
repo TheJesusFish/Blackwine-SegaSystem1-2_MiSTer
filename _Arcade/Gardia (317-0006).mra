@@ -6,7 +6,7 @@
 	<manufacturer>Coreland / Sega</manufacturer>
 	<players>2</players>
 	<joystick>8-way</joystick>
-	<rotation>vertical</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<category>Shooter</category>
 	<rbf>Blackwine-SegaSystem1-2</rbf>
 	<switches default="FF,7C">
